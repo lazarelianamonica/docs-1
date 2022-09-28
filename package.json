@@ -24,7 +24,7 @@
     "prism-react-renderer": "^1.2.0",
     "prismjs": "^1.26.0",
     "react": "latest",
-    "react-copy-to-clipboard": "^5.0.4",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "latest",
     "react-inlinesvg": "^2.3.0"
   },
